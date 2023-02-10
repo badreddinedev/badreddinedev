@@ -1,5 +1,5 @@
 # 💫 About Me:
-STUDENT 42 NETWORK<br>Email : bmsyah2000@gmail.com
+42 NETWORK STUDENT<br>Email : bmsyah2000@gmail.com
 
 
 ## 🌐 Socials:
