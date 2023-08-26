@@ -1,7 +1,7 @@
 # 💫 About Me:
 42 NETWORK STUDENT<br>Email : bmsyah2000@gmail.com
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="badreddine-msyah-854328234" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ma.linkedin.com/in/badreddine-msyah-854328234?trk=profile-badge">Badreddine Msyah</a></div>
+
+<div <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="badreddine-msyah-854328234" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ma.linkedin.com/in/badreddine-msyah-854328234?trk=profile-badge">Badreddine Msyah</a></div>
 
 [![bamsyah's 42 stats](https://badge.mediaplus.ma/darkblue/bamsyah)](https://github.com/oakoudad/badge42)
             
