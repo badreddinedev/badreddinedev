@@ -1,5 +1,5 @@
 # 💫 About Me:
-42 NETWORK STUDENT<br>Email : bmsyah2000@gmail.com
+42 NETWORK STUDENT<br>
 
 [![bamsyah's 42 stats](https://badge.mediaplus.ma/darkblue/bamsyah)](https://github.com/oakoudad/badge42)
             
