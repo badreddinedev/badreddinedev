@@ -2,7 +2,12 @@
 42 NETWORK STUDENT<br>
 
 [![bamsyah's 42 stats](https://badge.mediaplus.ma/darkblue/bamsyah)](https://github.com/oakoudad/badge42)
-            
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/bamsyah/count.svg" />
+</p>
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/#3945) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/badreddine-msyah-854328234) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_bamsyah) 
 
