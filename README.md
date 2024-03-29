@@ -5,7 +5,7 @@
 
 42 NETWORK STUDENT<br>
 
-[![bamsyah's 42 stats](https://badge.mediaplus.ma/darkblue/bamsyah)](https://github.com/oakoudad/badge42)
+[![bamsyah's 42 stats](https://badge.mediaplus.ma/black/bamsyah)](https://github.com/oakoudad/badge42)
 
 
 <p align="left"> <img src="68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966”>
