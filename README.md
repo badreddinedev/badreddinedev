@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Badreddine MSYAH</h1>
 <h3 align="center">A passionate student from Morocco</h3>
-<!-- <img align=“right” alt=“Coding” width=“200” src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 42 NETWORK STUDENT<br>
 
 [![bamsyah's 42 stats](https://badge.mediaplus.ma/darkblue/bamsyah)](https://github.com/oakoudad/badge42)
+
 
 <p align="left"> <img src="68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966”>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bamsyah&label=Profile%20views&color=0e75b6&style=flat" alt="bamsyah" /> </p>
