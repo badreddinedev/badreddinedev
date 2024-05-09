@@ -3,10 +3,6 @@
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-42 NETWORK STUDENT<br>
-
-[![bamsyah's 42 stats](https://badge.mediaplus.ma/black/bamsyah)](https://github.com/oakoudad/badge42)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bamsyah&label=Profile%20views&color=0e75b6&style=flat" alt="bamsyah" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bamsyah" alt="bamsyah" /></a> </p>
