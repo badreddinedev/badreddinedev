@@ -1,4 +1,6 @@
 ![MasterHead](https://png.pngtree.com/background/20230525/original/pngtree-hacking-child-computer-screen-picture-image_2735813.jpg)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bamsyah&label=Profile%20views&color=0e75b6&style=flat" alt="bamsyah" /> </p>
 <h1 align="center">Hi 👋, I'm Badreddine MSYAH</h1>
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
