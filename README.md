@@ -1,11 +1,10 @@
 ![MasterHead](https://png.pngtree.com/background/20230525/original/pngtree-hacking-child-computer-screen-picture-image_2735813.jpg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bamsyah&label=Profile%20views&color=0e75b6&style=flat" alt="bamsyah" /> </p>
 <h1 align="center">Hi 👋, I'm Badreddine MSYAH</h1>
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=badreddinems&label=Profile%20views&color=0e75b6&style=flat" alt="badreddinems" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bamsyah" alt="bamsyah" /></a> </p>
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://x.com/BadreddineMsyah" target="blank"><img src="https://img.shields.io/twitter/follow/_bamsyah?logo=twitter&style=for-the-badge" alt="_bamsyah" /></a> </p>
 
