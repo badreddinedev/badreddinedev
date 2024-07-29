@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://x.com/BadreddineMsyah" target="blank"><img src="https://img.shields.io/twitter/follow/_bamsyah?logo=twitter&style=for-the-badge" alt="_bamsyah" /></a> </p>
+<p align="left"> <a href="https://x.com/msyah_dev" target="blank"><img src="https://img.shields.io/twitter/follow/_bamsyah?logo=twitter&style=for-the-badge" alt="_bamsyah" /></a> </p>
 
 - 📫 How to reach me **eddinbader88@gmail.com**
 
