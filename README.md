@@ -1,5 +1,3 @@
-![MasterHead](https://png.pngtree.com/background/20230525/original/pngtree-hacking-child-computer-screen-picture-image_2735813.jpg)
-
 <h1 align="center">Hi 👋, I'm Badreddine MSYAH</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badreddinems&label=Profile%20views&color=0e75b6&style=flat" alt="badreddinems" /> </p>
